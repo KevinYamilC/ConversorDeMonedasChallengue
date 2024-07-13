@@ -1,0 +1,1 @@
+El programa fue creado con spring boot porque era lo que tenia a la mano y se me facilito implementar las librerias con gradle, es un menu en bucle que valida que el usuario introduzca opciones el menu mostrado en caso contrario no se rompera mostrar un mensaje indicando al usuario que introduzca un valor valido
